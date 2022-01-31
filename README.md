@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Karljoones/Karljoones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi, friend 👋
+
+### 🚧 Working on
+Frontend Development, recreating [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/) as an experiment into making browser based games using React.
+
+### 🏢 Working with
+Shogun, Manager, Technical Support
+
+### ⚒️ Interests
+Android | Frontend | Data | Spoken Languages
