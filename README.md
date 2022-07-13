@@ -16,10 +16,13 @@ Here are some ideas to get you started:
 ### Hi, friend 👋
 
 ### 🚧 Working on
-Frontend Development, recreating [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/) as an experiment into making browser based games using React.
+A new Chrome extension to experiment with building extensions, as well as helping others make more efficient use of Zendesk. Check out [Zendesk Utils](https://chrome.google.com/webstore/detail/zendesk-utils/mdcmhkfioihfkfggfpiibohmkmnpanjh).
 
 ### 🏢 Working with
 Shogun, Manager, Technical Support
 
 ### ⚒️ Interests
-Android | Frontend | Data | Spoken Languages
+Android | Frontend Development | Spoken Languages
+
+### 🙂 Pronouns
+He/Him
