@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 
 ### Hi, friend 👋
 
+Looking for new opportunities so get in touch if you're interested!
+
 ### 🚧 Working on
 A new Chrome extension to experiment with building extensions, as well as helping others make more efficient use of Zendesk. Check out [Zendesk Utils](https://chrome.google.com/webstore/detail/zendesk-utils/mdcmhkfioihfkfggfpiibohmkmnpanjh).
 
-### 🏢 Working with
-Shogun, Manager, Technical Support
+### 🏢 Experience
+Shogun, Manager, Technical Support (Aug 2018 - 22)
 
 ### ⚒️ Interests
 Android | Frontend Development | Spoken Languages
