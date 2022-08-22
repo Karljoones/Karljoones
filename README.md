@@ -21,7 +21,7 @@ Looking for new opportunities so get in touch if you're interested!
 A new Chrome extension to experiment with building extensions, as well as helping others make more efficient use of Zendesk. Check out [Zendesk Utils](https://chrome.google.com/webstore/detail/zendesk-utils/mdcmhkfioihfkfggfpiibohmkmnpanjh).
 
 ### 🏢 Experience
-Shogun, Manager, Technical Support (Aug 2018 - 22)
+Former Manager, Technical Support for Shogun 
 
 ### ⚒️ Interests
 Android | Frontend Development | Spoken Languages
