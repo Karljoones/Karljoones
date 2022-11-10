@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Looking for new opportunities so get in touch if you're interested!
 
 ### 🚧 Working on
-A new Chrome extension to experiment with building extensions, as well as helping others make more efficient use of Zendesk. Check out [Zendesk Utils](https://chrome.google.com/webstore/detail/zendesk-utils/mdcmhkfioihfkfggfpiibohmkmnpanjh).
+A few fun projects: [Personal Site](https://karljones.me) and [Is It Halloween?](https://isithalloween.today)
 
 ### 🏢 Experience
 Former Manager, Technical Support for Shogun 
