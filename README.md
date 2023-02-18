@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 Looking for new opportunities so get in touch if you're interested!
 
 ### 🚧 Working on
-A few fun projects: [Personal Site](https://karljones.me) and [Is It Halloween?](https://isithalloween.today)
+A few fun projects: 
+- [Paige Hart's website](https://paigehart.com) 
+- [Is It Halloween?](https://isithalloween.today)
+- (soon) Job Hunter
 
 ### 🏢 Experience
 Former Manager, Technical Support for Shogun 
