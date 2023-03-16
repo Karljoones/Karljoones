@@ -19,6 +19,7 @@ Looking for new opportunities so get in touch if you're interested!
 
 ### 🚧 Working on
 A few fun projects: 
+- [LinkShrub](https://links.karljones.me/)
 - [Paige Hart's website](https://paigehart.com) 
 - [Is It Halloween?](https://isithalloween.today)
 - (soon) Job Hunter
