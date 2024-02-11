@@ -7,12 +7,8 @@ Looking for new opportunities so get in touch if you're interested!
 ### Open University
 I'm currently working towards a MSc in Computing with the Open University. More info: [karljones.me/education/msc-computing](https://karljones.me/education/msc-computing).<br>
 
-### LinkShrub
-[LinkShrub](https://linkshrub.karljones.me/)<br>
-An alternative to [Linktree](https://linktr.ee) built to be faster and simpler. Can be deployed on any URL.<br>
-Live examples: 
-- [Karl Jones](https://links.karljones.me) 
-- [Paige Hart](https://links.paigehart.com)
+### Pisces
+[piscesbattlefield.com](https://piscesbattlefield.com)<br>
 
 ### paigehart.com
 [paigehart.com](https://paigehart.com)<br>
