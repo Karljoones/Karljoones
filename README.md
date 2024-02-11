@@ -8,10 +8,10 @@ Looking for new opportunities so get in touch if you're interested!
 I'm currently working towards a MSc in Computing with the Open University. More info: [karljones.me/education/msc-computing](https://karljones.me/education/msc-computing).<br>
 
 ### Pisces
-[piscesbattlefield.com](https://piscesbattlefield.com)<br>
+[piscesbattlefield.com](https://karljones.me/project/pisces-battlefield)<br>
 
 ### paigehart.com
-[paigehart.com](https://paigehart.com)<br>
+[paigehart.com](https://karljones.me/project/paige-hart)<br>
 A personal homepage for a poet and author - this was designed to display blog articles and book information, as well as used as a contact form for visitors to get into contact.
 
 ### Job hunter
